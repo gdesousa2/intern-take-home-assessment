@@ -1,6 +1,6 @@
 # Take-Home Coding Assessment - 2023 CBG Data Science Summer Internship
 
-[![3M logo](https://www.3m.com/3m_theme_assets/themes/3MTheme/assets/images/unicorn/Logo.png)](https://www.3m.com/)
+[![3M logo](./assets/logos/3M_Logo.svg)]
 
 ## Preface and Reminders
 
