@@ -1,3 +1,9 @@
+# Pycharm IDE
+.idea/
+
+# VS Code config
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
